@@ -1,0 +1,168 @@
+#logo{
+    width: 100%;
+    height: auto;
+}
+
+h5,p,h3,h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+span{
+    font-family: 'Lobster', sans-serif;
+}
+
+
+.logolink{
+    width: 10%;
+    height: auto;
+}
+
+.nav-item:hover a{
+    background-color: #fa9afa;
+    border-radius: 50rem;
+}
+
+.nav-item:hover a{
+    color: white;
+}
+.copyright{
+    background-color: #00ccff;
+}
+
+.bx{
+    color: #fa9afa;
+}
+
+.divcontactus{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.divcontactus div{
+    display: flex;
+    flex-direction: row;
+}
+.divcontactus div div{
+    display: flex;
+    flex-direction: column;
+}
+
+.divfootercontactus{
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
+
+.circle-icon {
+    background: white;
+    padding:5px;
+    border-radius: 50%;
+}
+
+.divhome{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.divhomelogo{
+    padding-right: 0.5rem;
+}
+
+.divhome p{
+    text-align: center;
+    align-content: center;
+    margin:0px;
+    font-size: 1.5rem;
+}
+
+.divedit{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.diveditlogo{
+    padding-right: 0.5rem;
+}
+
+.divedit p{
+    text-align: center;
+    align-content: center;
+    margin:0px;
+    font-size: 1.5rem;
+}
+
+.divstore{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.divstorelogo{
+    padding-right: 0.5rem;
+}
+
+.divstore p{
+    text-align: center;
+    align-content: center;
+    margin:0px;
+    font-size: 1.5rem;
+}
+
+.divuser{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.divuserlogo{
+    padding-right: 0.5rem;
+}
+
+.divuser p{
+    text-align: center;
+    align-content: center;
+    margin:0px;
+    font-size: 1.5rem;
+}
+
+.divsocialmedia{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: #6d6875;
+}
+
+.divmain{
+    display: flex;
+    flex-direction: row;
+}
+.divmain div{
+    flex: 50%;
+    position: relative;
+}
+
+.welcomemessage p:first-child{
+    font-size: 3.5rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.welcomemessage p{
+    font-size: 2rem;
+    text-align: justify;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+
+
